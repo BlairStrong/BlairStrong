@@ -17,7 +17,7 @@ Here are a few of the projects I have worked on:
 ### Book Store Database (https://github.com/BlairStrong/finalCapstone)
 An application that allows a user to store, retreive nd modify book data as related to a small bookshop
 
-###Financial Strategy Backtester (https://github.com/BlairStrong/Strategy_tester) 
+### Financial Strategy Backtester (https://github.com/BlairStrong/Strategy_tester) 
 A backtester for a specific strategy that downloads proce data, tests that strategy on the backtested data and then instructs on decidions for a trader to open or close long positions. Still under development.
 
 ## Education
