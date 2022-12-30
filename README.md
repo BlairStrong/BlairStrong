@@ -1,4 +1,4 @@
-# Heading 1 Welcome to my GitHub page!
+# Welcome to my GitHub page!
 
 My name is Blair and I am a junior software engineer based in south West, UK. I am passionate about building software that makes a difference in people's lives and am constantly learning new technologies and programming languages to expand my skillset.
 
@@ -11,15 +11,18 @@ My name is Blair and I am a junior software engineer based in south West, UK. I 
 
 Here are a few of the projects I have worked on:
 
-- Statistical Arbitrage Opportunity Finder (https://github.com/BlairStrong/StatArb_ByBit) - A bot the cycles through Cryptocurrency pairs on the ByBit crypto exchange and finds statistical arbitrage opportunities.
+### Statistical Arbitrage Opportunity Finder (https://github.com/BlairStrong/StatArb_ByBit)
+- A bot the cycles through Cryptocurrency pairs on the ByBit crypto exchange and finds statistical arbitrage opportunities.
 
-- Book Store Database (https://github.com/BlairStrong/finalCapstone) - An application that allows a user to store, retreive nd modify book data as related to a small bookshop
+### Book Store Database (https://github.com/BlairStrong/finalCapstone)
+An application that allows a user to store, retreive nd modify book data as related to a small bookshop
 
-- Financial Strategy Backtester (https://github.com/BlairStrong/Strategy_tester) - A backtester for a specific strategy that downloads proce data, tests that strategy on the backtested data and then instructs on decidions for a trader to open or close long positions. Still under development.
+###Financial Strategy Backtester (https://github.com/BlairStrong/Strategy_tester) 
+A backtester for a specific strategy that downloads proce data, tests that strategy on the backtested data and then instructs on decidions for a trader to open or close long positions. Still under development.
 
 ## Education
 
-- Masters(distinction) in Mecahnical Engineering from Univesity of the West of England.
+- Masters (distinction) in Mecahnical Engineering from Univesity of the West of England.
 - Software Engineering - HyperionDev
 
 ## Contact
