@@ -1,7 +1,7 @@
 # Welcome to my GitHub page!
 
 I'm a engineer based in South West, UK.
-I currently use Python as a cyber engineer, but also write 
+I currently use Python as a cyber engineer, but also write in C# and have a couple website projects which use javascript.
 I am passionate about building software that makes a difference in people's lives and am constantly learning new technologies and programming languages to expand my skillset.
 
 ## Skills
