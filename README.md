@@ -1,11 +1,13 @@
 # Welcome to my GitHub page!
 
-My name is Blair and I am a junior software engineer based in south West, UK. I am passionate about building software that makes a difference in people's lives and am constantly learning new technologies and programming languages to expand my skillset.
+I'm a engineer based in South West, UK.
+I currently use Python as a cyber engineer, but also write 
+I am passionate about building software that makes a difference in people's lives and am constantly learning new technologies and programming languages to expand my skillset.
 
 ## Skills
 
 - Programming languages: Python
-- Technologies: RESTful APIS Django, SQLITE3, SpaCy, NumPy, Pandas, 
+- Technologies: RESTful APIS, Django, Flask, algorythm design, Javascript, C#.
 
 ## Projects
 
