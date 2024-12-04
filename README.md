@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Blair  
 
 🌟 **Welcome to my GitHub!** I'm an engineer who's all about being able to build cool things.  
 I love turning ideas into reality through code, tinkering and collaborating on impactful projects.
