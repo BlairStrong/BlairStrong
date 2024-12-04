@@ -7,9 +7,12 @@ I love turning ideas into reality through code, tinkering and collaborating on i
 
 ## 🚀 About Me  
 
-🎓 **Education**: [Master of Engineering, Mechanical Engineering] - University of the West of England 
+🎓 **Education**: Master of Engineering, Mechanical Engineering - University of the West of England 
+
 💼 **Current Role**: Threat analyst 
+
 📍 **Location**: South West, UK  
+
 🌱 **Currently Learning**: React Native,  Machine Learning
 
 ---
